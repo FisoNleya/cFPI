@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="cFPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/cFPI</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="main.Main" />
+        <option name="description" value="Fiscal printer Interface" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="CFPI" />
+        <option name="vendor" value="SixthRadix" />
+        <option name="version" value="1.0.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="cFPI.jar">
+        <element id="module-output" name="cFPI" />
+      </element>
+    </root>
+  </artifact>
+</component>
